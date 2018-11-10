@@ -8,7 +8,7 @@
  */
 
 
-require_once __DIR__ . '/class.captcha.php';
+require( __DIR__ . '/class.captcha.php' );
 
 
 class Vales_WP_CAPTCHA {
